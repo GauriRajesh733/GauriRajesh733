@@ -1,10 +1,32 @@
 
 # Gauri Rajesh
 
-This is a paragraph.
+## Contact Information
 
-This is the first line.  
-This is the second line.  
+Address Town Country        
+gauri.ggsr@gmail.com  
+Phone Number   
+**[Linkedin](https://www.linkedin.com/in/gauri-rajesh-4a46bb272/)**
+
+---
+
+## Education
+
+### Northeastern University
+
+### Cumberland High School
+
+---
+
+## Experience
+
+- 
+
+---
+
+## Skills
+
+- 
 
 **bold**
 *italic*
@@ -28,6 +50,4 @@ This is the second line.
 
 ---
 
-**[Google Calendar Link](https://calendar.google.com/calendar)**
-![https://images.unsplash.com/photo-1685389110116-7170b574d01b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhdXRpZnVsJTIwc2t5fGVufDB8fDB8fHww]
 
